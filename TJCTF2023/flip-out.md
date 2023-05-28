@@ -5,4 +5,4 @@ For this challenge you were given a binary that had to do with an app that you c
 After running the script to brute force every number from 0-128, I got the flag:
 tjctf{chop-c4st-7bndbji}
 
-Note: I'm not releasing the script because looking back I probably shouldn't have brute forced it because it probably hurt the infrastructure of the challenge by opening and closing 129 connections in rapid succession. 
+Note: I'm not releasing the script because looking back I probably shouldn't have brute forced it because it probably hurt the infrastructure of the challenge by opening and closing 129 connections in rapid succession. I highly encourage you to look at an actual writeup of this challenge if you are confused. 
